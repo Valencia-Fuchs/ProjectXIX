@@ -23,6 +23,9 @@ def comment_1(comentario):
 def comment_2(comentario):
 	print (comentario)
 
+def nuevaFuncion(None):
+	print ('hola')
+
 
 
 
