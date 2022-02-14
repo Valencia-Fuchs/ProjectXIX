@@ -14,6 +14,15 @@ def resta(a, b):
 def multiplicacion(a, b):
 	return a * b
 
+def division(a, b):
+	return a / b
+
+def comment_1(comentario):
+	print (comentario)
+
+def comment_2(comentario):
+	print (comentario)
+
 
 
 
